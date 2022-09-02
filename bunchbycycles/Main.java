@@ -20,7 +20,7 @@ public class Main {
         counts.mediumCount++;
       }
       else
-      {counts.mediumCount++;
+      {counts.highCount++;
       }
     }
     return counts;
